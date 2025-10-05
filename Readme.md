@@ -130,4 +130,5 @@ Whether you’re fixing a bug, improving the design, or adding features — your
 ## 🪪 License
 
 This project is open-source under the **MIT License**.
+
 Feel free to use, modify, and share it with proper attribution.
